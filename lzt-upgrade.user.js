@@ -29,10 +29,10 @@
 // @require      https://cdn.jsdelivr.net/gh/ilyhalight/lzt-upgrade@b3e7c27772ba3e8cab987e262b9ed86cfec2c30a/public/static/js/lztupgrade/api/themes.js
 // @require      https://cdn.jsdelivr.net/gh/ilyhalight/lzt-upgrade@9da314f6a1280655b2c94c8e2664d7121cb5766f/public/static/js/lztupgrade/Logger.js
 // @require      https://cdn.jsdelivr.net/gh/ilyhalight/lzt-upgrade@226918eb06d1c75e60d49a2352d6abd53afb341a/public/static/js/lztupgrade/checkUpdate.js
-// @updateURL    https://github.com/ilyhalight/lzt-upgrade/raw/master/lzt-upgrade.user.js
-// @downloadURL  https://github.com/ilyhalight/lzt-upgrade/raw/master/lzt-upgrade.user.js
+// @updateURL    https://github.com/dizzxmem/xnnext/raw/main/lzt-upgrade.user.js
+// @downloadURL  https://github.com/dizzxmem/xnnext/raw/main/lzt-upgrade.user.js
 // @supportURL   https://github.com/ilyhalight/lzt-upgrade/issues
-// @homepageURL  https://github.com/ilyhalight/lzt-upgrade
+// @homepageURL  https://github.com/dizzxmem/xnnext
 // @run-at       document-start
 // ==/UserScript==
 
